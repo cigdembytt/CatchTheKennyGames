@@ -43,7 +43,7 @@ class ViewController: UIViewController {
     
     @IBOutlet weak var kenny9: UIImageView!
     
-    
+let a = 3
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
